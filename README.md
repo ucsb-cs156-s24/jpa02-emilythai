@@ -10,7 +10,7 @@
   a link to your repo, e.g. 
   https://github.com/ucsb-cs156-s24/jpa02-cgaucho
 
-Repo: https://ucsb-cs156-s24/STARTER-jpa02
+Repo: https://github.com/ucsb-cs156-s24/jpa02-emilythai
 
 * TODO: Correct the "deployed at" link to app on Dokku
   then delete this TODO.  Replace it with 
@@ -18,7 +18,7 @@ Repo: https://ucsb-cs156-s24/STARTER-jpa02
   https://jpa02-cgaucho.dokku-14.cs.ucsb.edu
 
 
-Deployed at: https://jpa02-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa02-emilythai.dokku-08.cs.ucsb.edu
 
 
 # About this repo
